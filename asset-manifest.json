@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Emmiter-Assigment/static/css/main.7d489e27.css",
+    "main.js": "/Emmiter-Assigment/static/js/main.5fd31277.js",
+    "index.html": "/Emmiter-Assigment/index.html",
+    "main.7d489e27.css.map": "/Emmiter-Assigment/static/css/main.7d489e27.css.map",
+    "main.5fd31277.js.map": "/Emmiter-Assigment/static/js/main.5fd31277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d489e27.css",
+    "static/js/main.5fd31277.js"
+  ]
+}
